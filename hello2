@@ -1,0 +1,13 @@
+Hi there I was wondering if you could help me figure out what to use in order to browse through the content of many video files all at once.  
+I have been doing security at buildings that I manage and am finding that an excessive amount of time is needed to actually go through the video footage and isolate notable assets.  
+What would be best is that a program pre-processes the video files, searching for criteria based on robust pre-existing categorizations and filters selected.
+Motion detection gives too many false positives to be efficient alone, although it helps to begin the filtration process.
+What is needed is something more intelligent that already has a library of objects ready to go to skip to "red car" or better yet "red toyota camry". 
+For recording human presence, could get as specific as "tall caucasion male in a black sweatshirt + ballcap hat".  
+Automated
+Then the files are automatically copied + trimmed + saved to a new folder.
+The user could then review the output files and even have some additional filtration tools at their disposal if the first automation leaves too many files based on too broad of a filtration request.
+
+Does anything like this already exist?  Is it something that would have to be built out in order to achieve?
+Thank you,
+Zavior
